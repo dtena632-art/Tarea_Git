@@ -1,2 +1,4 @@
-# Tarea_Git
-Practica de ramas Git
+# Tarea\_Git
+
+Practica de ramas Git de David Tena 
+
